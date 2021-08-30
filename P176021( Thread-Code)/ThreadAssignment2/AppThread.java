@@ -5,6 +5,7 @@ public class AppThread {
 
         countEven.setName("Thread for counting Even number");
         countPrime.setName("Thread for counting Prime numbers ");
+        console.log (:hello);
 
         countEven.start();
         countPrime.start();
